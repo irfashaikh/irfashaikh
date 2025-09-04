@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfashaikh&label=Profile%20views&color=0e75b6&style=flat" alt="irfashaikh" /> </p>
 
-- 🌱 I’m currently learning **Data Structure And Algorithm**
+- 🌱 I’m currently learning **Data Analysis**
 
 - 📫 How to reach me **irfanshaikh9824774@gmail.com**
 
