@@ -59,6 +59,32 @@
 
 ---
 
+---
+
+## 🚀 Project Highlights
+
+### 🔹 End-to-End Data Engineering Pipeline (Databricks)
+**Tech:** PySpark | Databricks | Delta Lake | SQL  | Azure  
+
+- Designed and implemented an **end-to-end data platform** using **Medallion Architecture (Bronze, Silver, Gold)**
+- Ingested raw data into **Delta Lake** with schema enforcement, audit columns, and metadata tracking
+- Built **incremental data pipelines** using Spark with optimized transformations
+- Implemented **Slowly Changing Dimension (SCD Type 2)** for historical tracking of customer and product data
+- Applied **data quality checks** (null handling, duplicate detection, referential integrity)
+- Optimized Delta tables using **partitioning, OPTIMIZE, and Z-ORDER**
+- Delivered **analytics-ready Gold tables** for reporting and downstream consumption
+
+📌 *Real-world focus: scalable pipelines, historical data management, and data reliability*
+
+---
+
+## 🧠 What I Bring as a Data Engineer
+- Strong understanding of **data modeling & dimensional design**
+- Experience building **production-ready ETL pipelines**
+- Hands-on with **Databricks & Spark performance optimization**
+- Focus on **data quality, reliability, and maintainability**
+
+<!--
 ### 📊 GitHub Stats
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfashaikh&show_icons=true&locale=en&layout=compact" />
@@ -69,5 +95,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfashaikh" />
-</p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfashaikh" /> 
+</p> -->
